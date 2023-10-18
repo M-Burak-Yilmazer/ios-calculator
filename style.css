@@ -53,5 +53,6 @@
   align-items: center;
   padding-left: 3rem;
 }
-.number:hover{
-  opacity:.5;}
+.number:hover
+{
+  opacity:0.5;}
